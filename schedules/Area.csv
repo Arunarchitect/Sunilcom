@@ -1,0 +1,2 @@
+Index,Identification,Name,Quantity,Unit,Contract,Value,Material Rate,Labor Rate,Subtotal,Property,Query
+1,1,All Area,,m2,,,,,,NetFloorArea,"IfcSpace, type=""PROF"""
